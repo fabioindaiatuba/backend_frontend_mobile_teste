@@ -7,6 +7,9 @@ Projeto foi desenvolvido como para de Teste para avalição de vaga com algumas 
 2. Criar uma aplicação front-end para cadastro e consulta de produtos
 3. Criar aplicação mobile para leitura e consulta de produtos pelo seu QRCode
 
+**Foi criado na pasta de cada projeto um README.md com orientação de cada exeução.**
+
+
 ## Telas do sistema frontend
 ![Tela01](https://github.com/fabioindaiatuba/backend_frontend_mobile_teste/blob/master/snapshots/front.png)
 
@@ -33,5 +36,4 @@ yarn --v
 ```
 ##### O yarn é um gerenciador de pacotes que funciona junto com node onde execução é mais rápida que npm.  
 
-Foi criado na pasta de cada projeto um README.md com orientação de cada exeução.
 
